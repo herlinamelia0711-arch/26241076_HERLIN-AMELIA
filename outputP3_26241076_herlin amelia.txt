@@ -1,0 +1,13 @@
+Masukan Nama: herlin amelia
+Masukan NIM: 25241076
+Program Studi: PTI
+2 digit nim: 76
+==========output==========
+Nama: herlin amelia
+NIM: 25241076
+Program Studi: PTI
+Dua Digit Terakhir NIM: 76
+Tipe data Nama: <class 'str'>
+Tipe data NIM: <class 'int'>
+Tipe data Program Studi: <class 'str'>
+Tipe data Dua Digit Terakhir NIM: <class 'int'>
