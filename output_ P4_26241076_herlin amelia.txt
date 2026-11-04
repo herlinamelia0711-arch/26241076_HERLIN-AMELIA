@@ -1,0 +1,12 @@
+2 digit terakhir NIM: 76
+Digit terakhir NIM: 6
+Angka pertama: 76
+Angka kedua: 7
+--- Hasil 7 Operasi ---
+penjumlahan : 83
+pengurangan : 69
+perkalian : 532
+pembagian : 10.857142857142858
+floor division : 10
+modulus : 6
+perpangkatan : 14645194571776
